@@ -1,0 +1,62 @@
+body{
+    width: 840px;
+}
+
+main{
+   margin-left: 380px;
+}
+
+
+.container{
+    display: flex;
+    margin-bottom: 8px;
+}
+
+label{
+    width: 200px;
+}
+
+.container-2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.partie{
+    border: solid blue 2px;
+    padding: 12px;
+}
+
+fieldset{
+    padding-top: 9px;
+}
+.container-3{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 9px;
+}
+
+
+.typeinline{
+    display: flex;
+}
+
+.inline{
+    width: 200px;
+}
+
+h4{
+    text-align: center;
+}   
+
+.villle{
+    padding-top: 18px;
+    padding-bottom: 12px;
+}
+
+#envoyerfin{
+    margin-left: 45%;
+}
+
+select{
+    margin-left: 29px;
+}
